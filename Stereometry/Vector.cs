@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Stereometry
 {
-    class Vector
+    public class Vector
     {
         public string Name="nullVector";
         public double X=0;
